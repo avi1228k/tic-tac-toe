@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="string">tic tac toe</string>
+    <string name="lader">main lader</string>
+</resources>
